@@ -1,0 +1,6 @@
+.top-wrapper {
+height: 600px;
+width: 1920px;
+size: cover;
+
+}
